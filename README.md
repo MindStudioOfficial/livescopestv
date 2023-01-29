@@ -1,6 +1,6 @@
 <h1 align="center"> <b>LiveScopes.tv</b></h1>
 <p align="center">
-Use several different <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a> to analyze a <a href="https://ndi.tv">NDI®</a> Stream. 
+<a href="https://ndi.tv">NDI®</a> enabled windows tool for <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a>
 </p>
 
 <p align="center">

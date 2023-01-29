@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.0.0] 2023-01-29
+
+### Changed
+- ✍🏼 Changed software name from "NDIScopes" to "LiveScopes.tv"
+- 🔖 Changed still file extension from ".ndis" to ".lsstill"
+- 🐞 Fixed: Version checker unstable JSON parsings
+
 ## [v0.8.1-beta] 2023-01-23
 
 ### Added
