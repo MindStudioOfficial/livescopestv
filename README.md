@@ -1,36 +1,37 @@
+![](blob/LiveScopesTV_Logo_full_white.png)
 <h1 align="center"> <b>LiveScopes.tv</b></h1>
 <p align="center">
 <a href="https://ndi.tv">NDI®</a> enabled windows tool for <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a>
 </p>
 
-<p align="center">
-<i>We've decided to re-brand our software previously known as "NDIScopes"</i>
-</p>
 
 <div align="center">
 
 <a href="https://github.com/MindStudioOfficial/livescopestv/releases">
-<img src="https://img.shields.io/github/downloads-pre/MindStudioOfficial/livescopestv/total?style=flat-square&label=Downloads"></a>
+<img src="https://img.shields.io/github/downloads-pre/MindStudioOfficial/livescopestv/total?style=flat&label=Downloads"></a>
 <a href="https://github.com/MindStudioOfficial/livescopestv/releases">
-<img src="https://img.shields.io/github/downloads-pre/MindStudioOfficial/livescopestv/latest/total?style=flat-square&label=Downloads@latest"></a>
-<!--<a href="">
-<img src="https://img.shields.io/tokei/lines/github/MindStudioOfficial/livescopestv"></a>-->
+<img src="https://img.shields.io/github/downloads-pre/MindStudioOfficial/livescopestv/latest/total?style=flat&label=Downloads@latest"></a>
 
 </div>
 <div align="center">
 
 <a href="https://github.com/MindStudioOfficial/livescopestv/releases">
-<img src="https://img.shields.io/github/v/release/MindStudioOfficial/livescopestv?style=flat-square&include_prereleases&label=Version"></a>
+<img src="https://img.shields.io/github/v/release/MindStudioOfficial/livescopestv?style=flat&include_prereleases&label=Version"></a>
 
 
 </div>
 <div align="center">
 
 <a href="https://github.com/MindStudioOfficial/livescopestv">
-<img src="https://img.shields.io/github/stars/MindStudioOfficial/livescopestv?style=flat-square"></a>
+<img src="https://img.shields.io/github/stars/MindStudioOfficial/livescopestv?style=flat"></a>
 <a href="https://github.com/MindStudioOfficial/livescopestv">
-<img src="https://img.shields.io/github/watchers/MindStudioOfficial/livescopestv?style=flat-square"></a>
+<img src="https://img.shields.io/github/watchers/MindStudioOfficial/livescopestv?style=flat"></a>
 
+</div>
+<div align="center">
+<a href="https://reddit.com/r/livescopestv">
+<img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/livescopestv?label=r%2Flivescopestv&style=social">
+</a>
 </div>
 <br>
 
