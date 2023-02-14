@@ -1,4 +1,4 @@
-<div style="background-color: #0a0c10;padding:40px "><img src="blob/LiveScopesTV_Logo_full_white.png"></img></div>
+<img src="blob/LiveScopesTV_Logo_full_black.png"></img>
 <h2 align="center"> <b>LiveScopes.tv</b></h1>
 <p align="center">
 <a href="https://ndi.tv">NDI®</a> enabled windows tool for <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a>
