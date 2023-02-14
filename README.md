@@ -1,7 +1,7 @@
-<img src="blob/LiveScopesTV_Logo_full_black.png"></img>
+<img src="blob/LiveScopesTV_Logo_full_white_bg.png" alt="Live Scopes TV Logo"></img>
 <h2 align="center"> <b>LiveScopes.tv</b></h1>
 <p align="center">
-<a href="https://ndi.tv">NDI®</a> enabled windows tool for <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a>
+<a href="https://ndi.tv">NDI®</a> enabled windows tool for real time <a href="https://github.com/MindStudioOfficial/livescopestv#waveformsscopes">Waveforms/Scopes</a>
 </p>
 
 
@@ -16,7 +16,7 @@
 <div align="center">
 
 <a href="https://github.com/MindStudioOfficial/livescopestv/releases">
-<img src="https://img.shields.io/github/v/release/MindStudioOfficial/livescopestv?style=flat&include_prereleases&label=Version"></a>
+<img src="https://img.shields.io/github/v/release/MindStudioOfficial/livescopestv?style=flat&include_prereleases&label=Version" alt="LiveScopes.tv Software Screenshot with RGB Waveform, Vectorscope, Splitscreen, YUV Parade and Blacklevels"></a>
 
 
 </div>
