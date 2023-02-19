@@ -35,7 +35,7 @@
 </div>
 <br>
 
-![Screenshot](blob/sc7.jpg)
+![Screenshot](blob/20230220_sc_v1.1.0_livescopestv.webp)
 
 | Luminance: ![Luma Waveform](blob/sc_luma.jpg)                      | RGB Overlayed: ![RGB Waveform](blob/sc_rgb.jpg)                      | RGB Parade: ![RGB Parade](blob/sc_rgbParade.jpg)                        |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------- |

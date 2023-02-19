@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.1.0] 2023-02-20
+
+### Changed
+
+- 💻 User interface improvements
+- ❓ Updated help menu with new URLs
+- ↔ Size of splitscreen drag handle now relative to frame height. Added appropriate mouse cursor on hover.
+- 🧙🏼‍♂️ Changed installer to not create start menu links in separate folder
+
 ## [v1.0.0] 2023-01-29
 
 ### Changed
