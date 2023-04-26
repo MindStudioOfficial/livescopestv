@@ -83,12 +83,9 @@ The software uses **CUDA** to compute the frames and scopes. A **NVIDIA GPU** is
 - [x] Waveform scale as 8Bit value
 - [x] Save and load settings on startup
 - [x] Enable Audiometer 
-- [x] Select Audio Device
 
 ### Audio
 - [x] Audiometer for every audio channel of the NDI® source in dBu scale
-- [x] Audio playback to default audio device (toggleable) 
-- [x] Selectable audio device
 
 ### Other
 - [x] Reference Frame

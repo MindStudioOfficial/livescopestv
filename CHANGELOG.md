@@ -1,5 +1,14 @@
 # Changelog
 
+## [v1.2.0] 2023-04-26
+
+- ⏫ Upgraded NDI SDK from 5.5.2 to 5.5.4
+- 🌐 Changed Homepage URL
+- 🌐 Changed Documentation/Wiki URL
+- 🌐 Changed Releases/Downloads URL
+- 🌐 Changed NDI URL to ndi.video
+- 🔊 Disabled Audio output. (Audio meters still work)
+  
 ## [v1.1.0] 2023-02-20
 
 ### Changed
