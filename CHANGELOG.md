@@ -1,5 +1,10 @@
 # Changelog
 
+## [v1.3.0] 2025-03-19
+
+- ⏫ Upgraded NDI SDK to 5.6.0.0
+- 🔒 Signed the installer using self signed certificate
+
 ## [v1.2.0] 2023-04-26
 
 - ⏫ Upgraded NDI SDK from 5.5.2 to 5.5.4
@@ -162,12 +167,12 @@ Here change the value of `scopeLayout` from `[0,0,0]` to `[0,1,2]`.
 
 This Improves Performance by up to 400% (4 times the amount of frames processed per second)
 
-| Resolution  | CustomPaint | Texture   | Average<br>Improvement |
-| ----------- | ----------- | --------- | ----------- |
-| 1280 x 720  | 8 - 20 ms<br>50 - 125 fps | 3 - 6ms<br>170 - 330 fps  | 300%        |
-| 1920 x 1080 | 15 - 50ms<br>20 - 70 fps   | 7 - 10ms<br>100 - 140 fps  | 350%        |
-| 2560 x 1440 | 40 - 70ms<br>15 - 25 fps   | 12 - 20ms<br>50 - 85 fps | 340%        |
-| 3840 x 2160 | 80 - >200ms<br>5 - 12 fps | 20 - 50ms<br>20 - 50 fps | 400%        |
+| Resolution  | CustomPaint               | Texture                   | Average<br>Improvement |
+| ----------- | ------------------------- | ------------------------- | ---------------------- |
+| 1280 x 720  | 8 - 20 ms<br>50 - 125 fps | 3 - 6ms<br>170 - 330 fps  | 300%                   |
+| 1920 x 1080 | 15 - 50ms<br>20 - 70 fps  | 7 - 10ms<br>100 - 140 fps | 350%                   |
+| 2560 x 1440 | 40 - 70ms<br>15 - 25 fps  | 12 - 20ms<br>50 - 85 fps  | 340%                   |
+| 3840 x 2160 | 80 - >200ms<br>5 - 12 fps | 20 - 50ms<br>20 - 50 fps  | 400%                   |
 
 Thanks to @alexmercerind and the people from the FlutterDev Discord for helping with the implementation.
 

@@ -27,12 +27,12 @@
 <a href="https://github.com/MindStudioOfficial/livescopestv">
 <img src="https://img.shields.io/github/watchers/MindStudioOfficial/livescopestv?style=flat"></a>
 
-</div>
+<!-- </div>
 <div align="center">
 <a href="https://reddit.com/r/livescopestv">
 <img alt="Subreddit subscribers" src="https://img.shields.io/reddit/subreddit-subscribers/livescopestv?label=r%2Flivescopestv&style=social">
 </a>
-</div>
+</div> -->
 <br>
 
 ![Screenshot](blob/20230220_sc_v1.1.0_livescopestv.webp)
@@ -52,8 +52,8 @@ The software uses **CUDA** to compute the frames and scopes. A **NVIDIA GPU** is
 - OS: 
   | Windows | Tested |
   | ------- | ------ |
-  | 11      | ✔      |
-  | 10      | ✔      |
+  | 11      | ✅      |
+  | 10      | ✅      |
 - CPU: x64, >= 4 Cores
 - GPU: See [GPU Support](https://github.com/MindStudioOfficial/livescopestv#gpu-support)
 - RAM: Software uses at max 2GB (rarely)
@@ -120,13 +120,13 @@ The software uses **CUDA** to compute the frames and scopes. A **NVIDIA GPU** is
 NVIDIA Cards only:
   | CC      | Name                 | Cards                                                               | Compatible | Tested |
   | ------- | -------------------- | ------------------------------------------------------------------- | ---------- | ------ |
-  | 9.0     | Hopper               | H100                                                                | ✔          | ?      |
-  | 8.9     | Ada Lovelace         | RTX 40 Series, RTX 6000                                             | ✔          | ?      |
-  | 8.0-8.7 | Ampere               | RTX 30 Series, RTX A Series                                         | ✔          | ✔      |
-  | 7.x     | Volta/Turing         | RTX 20 Series, GTX 16 Series, Quadro RTX Series, TITAN RTX, TITAN V | ✔          | ✔      |
-  | 6.x     | Pacal                | GTX 10 Series, Titan X, Quadro P Series                             | ✔          | ✔      |
-  | 5.x     | Maxwell              | GTX 750 - GTX 980 Ti                                                | ✔          | ?      |
-  | >= 3.5  | Kepler               | GT 640 - GTX 780 Ti, TITAN Z                                        | ✔          | ?      |
+  | 9.0     | Hopper               | H100                                                                | ✅          | ?      |
+  | 8.9     | Ada Lovelace         | RTX 40 Series, RTX 6000                                             | ✅          | ✅      |
+  | 8.0-8.7 | Ampere               | RTX 30 Series, RTX A Series                                         | ✅          | ✅      |
+  | 7.x     | Volta/Turing         | RTX 20 Series, GTX 16 Series, Quadro RTX Series, TITAN RTX, TITAN V | ✅          | ✅      |
+  | 6.x     | Pacal                | GTX 10 Series, Titan X, Quadro P Series                             | ✅          | ✅      |
+  | 5.x     | Maxwell              | GTX 750 - GTX 980 Ti                                                | ✅          | ?      |
+  | >= 3.5  | Kepler               | GT 640 - GTX 780 Ti, TITAN Z                                        | ✅          | ?      |
   | < 3.5   | Kepler, Fermi, Tesla |                                                                     | ❌          |        |
 
   
