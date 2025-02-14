@@ -1,5 +1,11 @@
 # Changelog
 
+Starting with version 2.0.0, the free version of LiveScopes.tv is now a part of the PRO version and can be found over at [broadcasttools.de](https://broadcasttools.de/livescopes-tv-by-mindstudio/download-livescopes-tv/).
+
+The full changelog is included within the downloaded software.
+
+This file will no longer be updated with new releases. The old releases will still be available here on GitHub for reference.
+
 ## [v1.3.0] 2025-03-19
 
 - ⏫ Upgraded NDI SDK to 5.6.0.0
